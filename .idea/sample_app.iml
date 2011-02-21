@@ -78,6 +78,15 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] treetop (v1.4.9, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/treetop-1.4.9)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] tzinfo (v0.3.24, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/tzinfo-0.3.24)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] webrat (v0.7.1, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/webrat-0.7.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] autotest (v4.3.2, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/autotest-4.3.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] autotest-rails-pure (v4.1.0, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/autotest-rails-pure-4.1.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] autotest-fsevent (v0.2.2, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/autotest-fsevent-0.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sys-uname (v0.8.5, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/sys-uname-0.8.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] autotest-growl (v0.2.4, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/autotest-growl-0.2.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] diff-lcs (v1.1.2, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/diff-lcs-1.1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-expectations (v2.0.1, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/rspec-expectations-2.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-mocks (v2.0.1, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/rspec-mocks-2.0.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rspec-core (v2.0.1, /Users/hbarradah/.rvm/gems/ruby-1.9.2-p136/gems/rspec-core-2.0.1)" level="application" />
   </component>
 </module>
 
