@@ -93,5 +93,20 @@ describe User do
     it "should have an encrypted password attribute" do
       @user.should respond_to(:encrypted_password)
     end
+
+    it "should set the encrypted password" do
+      @user.encrypted_password.should_not be_blank
+    end
+
+    describe "has_password?" do
+      it "should return true if has password" do
+         @user.has_password?(@attr[:password]).should be_true
+      end
+
+      it "should return false if has password" do
+         @user.has_password?("invalid").should be_false
+      end
+    end
   end
+
 end
